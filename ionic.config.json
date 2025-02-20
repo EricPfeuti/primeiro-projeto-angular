@@ -1,0 +1,7 @@
+{
+  "name": "Ionic - Triângulos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
